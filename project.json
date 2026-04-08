@@ -1,0 +1,22 @@
+{
+  "overview": "Professional website for GVR Towing Service in Nayudupeta, Nellore district. Features a hero section with call-to-action, service listings, location info, and a contact section with a direct phone link for 24/7 roadside assistance.",
+  "features": [
+    "Hero section with 24/7 towing call-to-action",
+    "Services grid with icons and descriptions",
+    "Why Choose Us trust section",
+    "Service area and location info",
+    "Contact section with clickable phone number",
+    "Responsive mobile-friendly layout",
+    "Fixed navigation with mobile hamburger menu",
+    "Footer with company info and social links"
+  ],
+  "category": "business-website",
+  "tags": [
+    "towing",
+    "roadside-assistance",
+    "local-business",
+    "service-website",
+    "mobile-first"
+  ],
+  "last_updated": "2026-04-08T10:54:15.471Z"
+}
